@@ -1,0 +1,9 @@
+{
+    "name": "map-backend",
+    "version": "1.0.0",
+    "description": "地图应用后端",
+    "main": "index.js",
+    "scripts": {
+      "start": "vercel dev"
+    }
+  }
